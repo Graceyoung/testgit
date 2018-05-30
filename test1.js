@@ -1,2 +1,2 @@
 this is test
-test checkout filename
+test : checkout filename
